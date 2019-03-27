@@ -19,6 +19,11 @@
 
 ![select your information](/images/select_data.png)
 
+    * first u have to set data range.
+    * select json format.
+    * check or uncheck depending on which kind of information u need.
+    * your contact list within About you. So, u must check the About you option.
+
 
 
 
