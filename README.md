@@ -5,17 +5,17 @@
 
 * [go to your fb settings](https://www.facebook.com/settings)
 
-* click your facebook information from settings
+* *click your facebook information from settings*
 
 
  ![your facebook information](/images/your_fb_info.png)
 
 
-* click download your information
+* *click download your information*
 
 ![download your information](/images/download_your_information.png)
 
-* after above process you will in the follwing page
+* *after above process you will in the follwing page*
 
 ![select your information](/images/select_data.png)
 
@@ -28,6 +28,6 @@
 
 
 
-Now, u will get facebook-username.zip file. You have to unzip the file first. Within facebook-username folder you will get a folder name about_you. Within about_you folder u will find your desired file named your_adress_books.json.
+*Now, u will get facebook-username.zip file. You have to unzip the file first. Within facebook-username folder you will get a folder name about_you. Within about_you folder u will find your desired file named your_adress_books.json.*
  
 
