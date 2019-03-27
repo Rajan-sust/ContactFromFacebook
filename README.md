@@ -15,6 +15,13 @@
 
 ![download your information](/images/download_your_information.png)
 
+* after above process you will in the follwing page
+
+![select your information](/images/select_data.png)
+
+
+
+
 
  
 
